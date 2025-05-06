@@ -1,0 +1,4 @@
+INFO:root:program started at - 2025-05-06 21:31:32.096297
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:"Harry Potter and the Sorcerer's Stone" - Fantasy is reccomended for the user with 1 user_id
+INFO:root:program ended at - 2025-05-06 21:31:34.170654
